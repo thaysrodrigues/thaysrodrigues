@@ -40,6 +40,12 @@ I am always motivated by challenges and the constant search for innovative solut
   <img src="https://github-readme-stats.vercel.app/api?username=thaysrodrigues&show_icons=true&theme=nightowl&count_private=true&hide_title=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="400">
 </p>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaysrodrigues/thaysrodrigues/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaysrodrigues/thaysrodrigues/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thaysrodrigues/thaysrodrigues/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ---
 
